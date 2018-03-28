@@ -1,0 +1,2 @@
+# tech_base
+intern
